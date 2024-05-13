@@ -5,7 +5,7 @@ External debt stock is the portion of a country's debt that was borrowed from fo
 
 Source of data is : https://www.gapminder.org/data/
 
-I used Sklearn's `SimpleImputer` to replacing Na values.
+I used Sklearn's `SimpleImputer` to replace Na values.
 
 Detected how many clusters do I need for the best practice by DataCamp's custom function. (https://campus.datacamp.com/courses/unsupervised-learning-in-python/clustering-for-dataset-exploration?ex=6)
 
